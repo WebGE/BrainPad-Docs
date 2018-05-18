@@ -8,7 +8,7 @@ To get started with the BrainPad you don't need to install any software. You don
 > The BrainPad can also be programmed in the same way professional developers do. Depending on your goals and skill level, you can [**Go Beyond**](../go-beyond/intro.md) Microsoft MakeCode and start coding using .NET and Visual Studio when you are ready.
 
 ## Microsoft MakeCode
-Microsoft MakeCode is a great way to learn programming. Microsoft MakeCode allows you to drag and drop blocks to create programs while seeing the results on a simulated BrainPad. Microsoft MakeCode also has a JavaScript program editor. When you change your block program Microsoft MakeCode changes your text (JavaScipt) program for you. Changes made to the text program will automatically show up as changes to your block program.
+Microsoft MakeCode is a great way to learn programming. Microsoft MakeCode allows you to drag and drop blocks to create programs while seeing the results on a simulated BrainPad. Microsoft MakeCode also has a JavaScript program editor. When you change your block program Microsoft MakeCode changes your text (JavaScript) program for you. Changes made to the text program will automatically show up as changes to your block program.
 
 When you get your program working on the simulator, you can just drag and drop it to run it on the real BrainPad!
 
