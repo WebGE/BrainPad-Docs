@@ -18,14 +18,14 @@ In other words, whenever you are instructed to press and hold reset for three se
 
 This BrainPad was much larger. You can identify it by the Traffic Light in the top right Corner. This version uses the G30 chipset.
 
-Unfortunately, this version only works with TinyCLR OS. It does not work with Microsoft MakeCode or any other software. We try to keep the the latest TinyCLR OS BrainPad libraries compatible and workable with this board but we recommend switching to the production BrainPad.
+Unfortunately, this version only works with TinyCLR OS. It does not work with Microsoft MakeCode or any other software. We try to keep the latest TinyCLR OS BrainPad libraries compatible and workable with this board but we recommend switching to the production BrainPad.
 
 To use with TinyCLR OS, follow the instructions on the GHI Electronics [G30 support page](http://docs.ghielectronics.com/hardware/scm/g30.html). From there you can use all C# and VB examples as is or with minor changes.
 
 To help those who started with the original BrainPad concept, we try to keep as much compatiblity as we can with the production BrainPad. This is only meant to help users transition to the new hardware. 
 
-Things to consider when using the the original concept:
-- The display runs in simulation mode to mimic the new display which makes it run significntly slower than the production BrainPad.
+Things to consider when using the original concept:
+- The display runs in simulation mode to mimic the new display which makes it run significantly slower than the production BrainPad.
 - The display is limited to the color blue only and the resolution 128 x 64 pixels.
 - The DC Motor is not supported.
 - The traffic light is not supported but it can be easily supported as explained below.
