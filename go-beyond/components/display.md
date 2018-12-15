@@ -6,9 +6,9 @@ Display commands in this section only change the memory buffer of the display an
 
 ## Display Methods
  
-* `BrainPad.Display.Height()` - returns the BrainPad display's height in pixels (64). 
+* `BrainPad.Display.Height` - returns the BrainPad display's height in pixels (64). 
 
-* `BrainPad.Display.Width()` - returns the BrainPad display's width in pixels (128).
+* `BrainPad.Display.Width` - returns the BrainPad display's width in pixels (128).
  
 * `BrainPad.Display.DrawSmallNumber(int x, int y, long number)` - Displays a number of type long in small text at the given x and y coordinates. [Example: `BrainPad.Display.DrawSmallNumber(10, 20, 52)`]
 
